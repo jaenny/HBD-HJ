@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.69457f3a.chunk.css",
-    "main.js": "/static/js/main.78a8ef5a.chunk.js",
-    "main.js.map": "/static/js/main.78a8ef5a.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.ec37a8a3.js",
-    "runtime-main.js.map": "/static/js/runtime-main.ec37a8a3.js.map",
-    "static/js/2.277c4eeb.chunk.js": "/static/js/2.277c4eeb.chunk.js",
-    "static/js/2.277c4eeb.chunk.js.map": "/static/js/2.277c4eeb.chunk.js.map",
-    "static/js/3.9bb8b592.chunk.js": "/static/js/3.9bb8b592.chunk.js",
-    "static/js/3.9bb8b592.chunk.js.map": "/static/js/3.9bb8b592.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.69457f3a.chunk.css.map": "/static/css/main.69457f3a.chunk.css.map",
-    "static/js/2.277c4eeb.chunk.js.LICENSE.txt": "/static/js/2.277c4eeb.chunk.js.LICENSE.txt",
-    "static/media/gift-box.4a9c4d62.png": "/static/media/gift-box.4a9c4d62.png",
-    "static/media/hjjy.a008b07d.png": "/static/media/hjjy.a008b07d.png"
+    "main.css": "/HBD-HJ/static/css/main.69457f3a.chunk.css",
+    "main.js": "/HBD-HJ/static/js/main.87b0d3d3.chunk.js",
+    "main.js.map": "/HBD-HJ/static/js/main.87b0d3d3.chunk.js.map",
+    "runtime-main.js": "/HBD-HJ/static/js/runtime-main.1b163316.js",
+    "runtime-main.js.map": "/HBD-HJ/static/js/runtime-main.1b163316.js.map",
+    "static/js/2.67f7afff.chunk.js": "/HBD-HJ/static/js/2.67f7afff.chunk.js",
+    "static/js/2.67f7afff.chunk.js.map": "/HBD-HJ/static/js/2.67f7afff.chunk.js.map",
+    "static/js/3.d7483b3f.chunk.js": "/HBD-HJ/static/js/3.d7483b3f.chunk.js",
+    "static/js/3.d7483b3f.chunk.js.map": "/HBD-HJ/static/js/3.d7483b3f.chunk.js.map",
+    "index.html": "/HBD-HJ/index.html",
+    "static/css/main.69457f3a.chunk.css.map": "/HBD-HJ/static/css/main.69457f3a.chunk.css.map",
+    "static/js/2.67f7afff.chunk.js.LICENSE.txt": "/HBD-HJ/static/js/2.67f7afff.chunk.js.LICENSE.txt",
+    "static/media/gift-box.4a9c4d62.png": "/HBD-HJ/static/media/gift-box.4a9c4d62.png",
+    "static/media/hjjy.a008b07d.png": "/HBD-HJ/static/media/hjjy.a008b07d.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.ec37a8a3.js",
-    "static/js/2.277c4eeb.chunk.js",
+    "static/js/runtime-main.1b163316.js",
+    "static/js/2.67f7afff.chunk.js",
     "static/css/main.69457f3a.chunk.css",
-    "static/js/main.78a8ef5a.chunk.js"
+    "static/js/main.87b0d3d3.chunk.js"
   ]
 }
